@@ -34,17 +34,17 @@ There’s a nice article on it here: https://cb.hbsp.harvard.edu/resources/marke
 </br></br> 
 <b>Individuals and Change:</b></br>
 Thinking about change from the individual rather than the organisation, we see three types of people when taking on a new challenge like Chef:</br>
-<ul>A minority of people want to adopt early; they need: </ul></br>
+<u>A minority of people want to adopt early; they need: </u></br>
 · Freedom / permission to learn, </br>
 · Recognition for progress.</br>
 · Meaningful projects to apply the technology to.</br>
 · Places to publish their learning</br>
-<ul>The majority will willingly learn; they need:</ul></br>
+<u>The majority will willingly learn; they need:</u></br>
 · Mentorship</br>
 · Training materials </br>
 · Internal/external accreditation as milestones</br>
 · Recognition</br>
-<ul>A minority will typically be reluctant to take on the additional learning.</ul></br>
+<u>A minority will typically be reluctant to take on the additional learning.</u></br>
 &nbsp;This is an influence problem and is difficult, possible tactics are:</br>
 · “Without learning this new skill to work with the new system how can they deliver their value to the company?” </br>
 · “Do they recognise that this is an industry trend, what does this mean for them in the industry?” </br>
